@@ -1,0 +1,6 @@
+{
+  "name": "Beats",
+  "description": "A gorgeous, 100% free, and completely ad-free modern music streaming player built with Jetpack Compose and Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
